@@ -1,0 +1,51 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.full-width-conatiner{
+    background-color: #f2f2f2;
+    height: 100vh;
+}
+
+.col{
+   display: inline;
+    float: left;
+    width: 50%;
+    
+}
+.contain{
+    margin: 246px 129px;
+}
+.contain button{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-top: 5px;
+    
+}
+.col iframe{
+    height: 100vh;
+    width: 100%;
+}
+
+
+/* row-2  */
+.contain2{
+    margin: 100px 425px;
+    width: 350px;
+    height: 200px;
+}
+.contain2 button{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-left: 30%;
+    margin-top: 10px;
+    
+
+}
+.row iframe{
+    width: 200%;
+}
